@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(magenta, gray, gold, chartreuse, aquamarine);
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    background-color: pink;
+    text-decoration: overline;
+}
+
+ul {
+    border: 5px solid;
+    border-color: chartreuse;
+    background-color: aquamarine;
+    color:black;
+}
+
+.item {
+    color: darkblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+img {
+    border: 5px inset;
+    border-color: crimson;
+    border-radius: 50%;
+}
+
+p {
+    background-color: fuchsia;
+    font-size: 25px;
+}
